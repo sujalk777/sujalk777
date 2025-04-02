@@ -5,6 +5,6 @@
 
 ## 📈 GitHub Stats  
 
-| ![Om's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujalk777name&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujalk777&layout=compact&theme=radical) |
+| ![Om's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujalk777&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujalk777&layout=compact&theme=radical) |
 |----------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
 
