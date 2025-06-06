@@ -1,9 +1,7 @@
- 
-[![Sujal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sujalk777&theme=github-compact)](https://github.com/sujalk777/github-readme-activity-graph)
 
-# 👋 Hi, I'm Sujal Kapoor
+# Hey, I'm Sujal Kapoor
 
-I'm a second-year B.Tech student at **IIT Jammu**, majoring in Electrical Engineering with a **Minor in Computer Science**. I’m passionate about **AI/ML**, **systems programming**, and solving real-world problems with code.
+I'm a third-year B.Tech student at **IIT Jammu**. I’m passionate about **AI/ML**, **systems programming**, and solving real-world problems with code.
 
 
 
@@ -16,4 +14,6 @@ I'm a second-year B.Tech student at **IIT Jammu**, majoring in Electrical Engine
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+ 
+[![Sujal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sujalk777&theme=github-compact)](https://github.com/sujalk777/github-readme-activity-graph)
 
