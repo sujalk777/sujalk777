@@ -3,6 +3,7 @@
 
 I'm a third-year B.Tech student at **IIT Jammu**. I’m passionate about **AI/ML**, **systems programming**, and solving real-world problems with code.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sujalk777&label=Profile%20views%20%F0%9F%91%80&color=0eb456&style=plastic" alt="sujalk777" /> </p>
 
 
 # 💻 Tech Stack:
