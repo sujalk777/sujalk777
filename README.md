@@ -14,7 +14,7 @@ I'm a third-year B.Tech student at **IIT Jammu**. I’m passionate about **AI/ML
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sujalk777&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github-compact)
  
 [![Sujal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sujalk777&theme=github-compact)](https://github.com/sujalk777/github-readme-activity-graph)
 
